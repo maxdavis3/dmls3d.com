@@ -709,3 +709,16 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Deep Cobalt ===== */
+:root {
+    --primary: #60a5fa;
+    --primary-dark: #3b82f6;
+    --accent: #6366f1;
+    --bg-dark: #03081a;
+    --bg-darker: #020511;
+    --bg-card: #07102b;
+    --font-heading: 'Syne', sans-serif;
+    --font-body: 'DM Sans', sans-serif;
+}
+.site-header { background: rgba(3,8,26,0.85); }
